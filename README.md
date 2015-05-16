@@ -6,9 +6,9 @@ Project site: [http://buymeasoda.github.com/soda-theme/](http://buymeasoda.githu
 
 ## Design
 
-![Soda Light Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-light-theme.png?v=4)
+![Vertex Light Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-light-theme.png?v=4)
 
-![Soda Dark Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-dark-theme.png?v=2)
+![Vertex Dark Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-dark-theme.png?v=2)
 
 ## Installation
 
@@ -16,7 +16,7 @@ Soda theme is designed to work with the latest development builds of Sublime Tex
 
 ### Using Sublime Package Control
 
-If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Soda Theme via the `Package Control: Install Package` menu item. The Soda Theme package is listed as `Theme - Soda` in the packages list.
+If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Soda Theme via the `Package Control: Install Package` menu item. The Soda Theme package is listed as `Theme - Vertex` in the packages list.
 
 ### Using Git
 
@@ -26,12 +26,12 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"
+    git clone https://github.com/buymeasoda/soda-theme/ "Theme - Vertex"
 
 ### Download Manually
 
 * Download the files using the GitHub .zip download option
-* Unzip the files and rename the folder to `Theme - Soda`
+* Unzip the files and rename the folder to `Theme - Vertex`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory
 
@@ -42,23 +42,23 @@ To configure Sublime Text to use the theme, follow the instructions below for yo
 ### Sublime Text 2
 
 * Open your User Settings Preferences file `Sublime Text 2 -> Preferences -> Settings - User`
-* Add (or update) your theme entry to be `"theme": "Soda Light.sublime-theme"` or `"theme": "Soda Dark.sublime-theme"`
+* Add (or update) your theme entry to be `"theme": "Vertex Light.sublime-theme"` or `"theme": "Vertex Dark.sublime-theme"`
 
 **Example Sublime Text 2 User Settings**
 
     {
-        "theme": "Soda Light.sublime-theme"
+        "theme": "Vertex Light.sublime-theme"
     }
 
 ### Sublime Text 3
 
 * Open your User Settings Preferences file `Sublime Text -> Preferences -> Settings - User`
-* Add (or update) your theme entry to be `"theme": "Soda Light 3.sublime-theme"` or `"theme": "Soda Dark 3.sublime-theme"`
+* Add (or update) your theme entry to be `"theme": "Vertex Light 3.sublime-theme"` or `"theme": "Vertex Dark 3.sublime-theme"`
 
 **Example Sublime Text 3 User Settings**
 
     {
-        "theme": "Soda Light 3.sublime-theme"
+        "theme": "Vertex Light 3.sublime-theme"
     }
 
 ## Additional Features
@@ -85,7 +85,7 @@ If you'd like to use folder icons in the Sublime Text 2 sidebar instead of the r
 
 ### Retina Resolution UI
 
-Soda Theme has been designed to take advantage of retina resolution (high-dpi) displays. Both Soda Light and Soda Dark support retina displays.
+Soda Theme has been designed to take advantage of retina resolution (high-dpi) displays. Both Vertex Light and Vertex Dark support retina displays.
 
 ![Soda Retina](http://buymeasoda.github.com/soda-theme/images/features/soda-retina.png)
 
@@ -97,7 +97,7 @@ Sublime Text provides an elegant way to tweak existing themes without having to 
 
 ### Syntax Highlighting Colour Schemes
 
-The Soda Light screenshot uses a modified version of Espresso Tutti Colori and the Soda Dark screenshot uses a modified version of Monokai.
+The Vertex Light screenshot uses a modified version of Espresso Tutti Colori and the Vertex Dark screenshot uses a modified version of Monokai.
 
 If you'd like to use the syntax highlighting schemes shown in the screenshots:
 
