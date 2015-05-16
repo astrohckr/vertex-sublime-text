@@ -555,7 +555,7 @@
         "class": "sidebar_container",
         "layer0.texture": "Theme - Vertex/Vertex Light/sidebar-bg@2x.png",
         "layer0.opacity": 1.0,
-        "layer0.inner_margin": [1, 1, 2, 1],
+        "layer0.inner_margin": [0, 0, 0, 0],
         "content_margin": [0, 0, 1, 0]
     },
     // Sidebar tree
