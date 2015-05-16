@@ -569,7 +569,7 @@
     // Sidebar rows
     {
         "class": "tree_row",
-        "layer0.texture": "Theme - Vertex/Vertex Light/sidebar-row-selected.png",
+        "layer0.texture": "Theme - Vertex/Vertex Light/sidebar-row-selected@2x.png",
         "layer0.opacity": 0.0,
         "layer0.inner_margin": [1, 1]
     },
@@ -698,70 +698,70 @@
     {
         "class": "disclosure_button_control",
         "content_margin": [8, 8],
-        "layer0.texture": "Theme - Vertex/Vertex Light/group-closed.png",
+        "layer0.texture": "Theme - Vertex/Vertex Light/group-closed@2x.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": 0
     },
     {
         "class": "disclosure_button_control",
         "parents": [{"class": "tree_row", "attributes": ["hover"]}],
-        "layer0.texture": "Theme - Vertex/Vertex Light/group-closed-hover.png"
+        "layer0.texture": "Theme - Vertex/Vertex Light/group-closed-hover@2x.png"
     },
     {
         "class": "disclosure_button_control",
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "layer0.texture": "Theme - Vertex/Vertex Light/group-closed-selected.png"
+        "layer0.texture": "Theme - Vertex/Vertex Light/group-closed-selected@2x.png"
     },
     // Sidebar group open
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Vertex/Vertex Light/group-open.png"
+        "layer0.texture": "Theme - Vertex/Vertex Light/group-open@2x.png"
     },
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row", "attributes": ["hover"]}],
-        "layer0.texture": "Theme - Vertex/Vertex Light/group-open-hover.png"
+        "layer0.texture": "Theme - Vertex/Vertex Light/group-open-hover@2x.png"
     },
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "layer0.texture": "Theme - Vertex/Vertex Light/group-open-selected.png"
+        "layer0.texture": "Theme - Vertex/Vertex Light/group-open-selected@2x.png"
     },
     // Sidebar folder closed
     {
         "class": "icon_folder",
-        "layer0.texture": "Theme - Vertex/Vertex Light/folder-closed.png",
+        "layer0.texture": "Theme - Vertex/Vertex Light/folder-closed@2x.png",
         "layer0.opacity": 1.0,
         "content_margin": [8, 8]
     },
     {
         "class": "icon_folder",
         "parents": [{"class": "tree_row", "attributes": ["hover"]}],
-        "layer0.texture": "Theme - Vertex/Vertex Light/folder-closed-hover.png"
+        "layer0.texture": "Theme - Vertex/Vertex Light/folder-closed-hover@2x.png"
     },
     {
         "class": "icon_folder",
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "layer0.texture": "Theme - Vertex/Vertex Light/folder-closed-selected.png"
+        "layer0.texture": "Theme - Vertex/Vertex Light/folder-closed-selected@2x.png"
     },
     // Sidebar folder open
     {
         "class": "icon_folder",
         "parents": [{"class": "tree_row", "attributes": ["expanded"]}],
-        "layer0.texture": "Theme - Vertex/Vertex Light/folder-open.png"
+        "layer0.texture": "Theme - Vertex/Vertex Light/folder-open@2x.png"
     },
     {
         "class": "icon_folder",
         "parents": [{"class": "tree_row", "attributes": ["expanded", "hover"]}],
-        "layer0.texture": "Theme - Vertex/Vertex Light/folder-open-hover.png"
+        "layer0.texture": "Theme - Vertex/Vertex Light/folder-open-hover@2x.png"
     },
     {
         "class": "icon_folder",
         "parents": [{"class": "tree_row", "attributes": ["expanded", "selected"]}],
-        "layer0.texture": "Theme - Vertex/Vertex Light/folder-open-selected.png"
+        "layer0.texture": "Theme - Vertex/Vertex Light/folder-open-selected@2x.png"
     },
     // Sidebar folder loading
     {
