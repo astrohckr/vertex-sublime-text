@@ -528,7 +528,7 @@
     // Status bar container
     {
         "class": "status_bar",
-        "layer0.texture": "Theme - Vertex/Vertex Light/status-bar-background.png",
+        "layer0.texture": "Theme - Vertex/Vertex Light/status-bar-background@2x.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [2, 2],
         "content_margin": [8, 4, 8, 4]
