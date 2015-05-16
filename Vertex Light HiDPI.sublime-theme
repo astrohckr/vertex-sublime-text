@@ -54,7 +54,7 @@
         "class": "tab_control",
         "attributes": ["selected"],
         "layer0.texture": "Theme - Vertex/Vertex Light/tab-active@2x.png",
-        "layer0.inner_margin": [2,0,2,0]
+        "layer0.inner_margin": [2,-1,2,0]
     },
     // Tab dirty state (close button hidden)
     {
