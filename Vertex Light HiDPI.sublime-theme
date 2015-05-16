@@ -10,7 +10,7 @@
         "layer0.texture": "Theme - Vertex/Vertex Light/tabset-background@2x.png",
         "layer0.inner_margin": [0, 0],
         "layer0.opacity": 1.0,
-        "content_margin": [-4, 0, -4, 3],
+        "content_margin": [-3, 0, -3, 0],
         "tab_overlap": 5,
         "tab_width": 180,
         "tab_min_width": 45,
@@ -30,12 +30,12 @@
     // Tab element
     {
         "class": "tab_control",
-        "content_margin": [12, 3, 12, 3],
+        "content_margin": [12, 3, 7, 3],
         "max_margin_trim": 0,
         "hit_test_level": 0.0,
         "layer0.texture": "Theme - Vertex/Vertex Light/tab-inactive@2x.png",
-        "layer0.inner_margin": [5, 5],
-        "layer0.opacity": 1.0
+        "layer0.inner_margin": 0,
+        "layer0.opacity": 1.0,
     },
     // Tab close state
     {
@@ -53,7 +53,8 @@
     {
         "class": "tab_control",
         "attributes": ["selected"],
-        "layer0.texture": "Theme - Vertex/Vertex Light/tab-active@2x.png"
+        "layer0.texture": "Theme - Vertex/Vertex Light/tab-active@2x.png",
+        "layer0.inner_margin": [0, 0, 0, 0]
     },
     // Tab dirty state (close button hidden)
     {
